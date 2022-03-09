@@ -2,12 +2,26 @@
 
 # Test Prep
 
-## 5.1 Notes
+## Week 0
+
+### 5.1 
 * Technological innovations have both positive and negative impacts
 * UAVs/Drones are used in search & rescue, aerial photography, and for hobbies; also have unintended uses
 * Automated telephone trees: purpose - save employers money + reduce hold time for customers
 
-## 5.2 Notes
+
+Come up with three of your own Beneficial and corresponding Harmful Effects of Computing Three beneficial effects of computing are it makes information more accessible, minimizes paper usage and is thus, more eco-friendly, and allows work to be distributed quicker and to a wider audience. 
+
+
+* Three harmful effects of computing are degradations in physical and mental health, increase in socio-economic divisions, and elimination of paper-based industries.
+
+
+Talk about dopamine issues above. Real? Parent conspiracy? Anything that is impacting your personal study and success in High School?
+
+
+* The dopamine rush that comes with certain digital applications can cause potential problems, especially if it makes the application addictive. Many students at Del Norte are addicted to gaming or social media because of this dopamine issue.
+
+### 5.2 
 * Poorer or rural areas in America and other countries may have less or little access to technology
 * Some countries may have different or restricted access, for instance China and USA may have divide in service allowed in their countries
 * Contributing factors to digital divide: socioeconomic (money), geographic (location), demographic (education, nationality, religion, and ethnicity)
@@ -16,10 +30,10 @@
 * San Diego county has regional distinction in many categories between Northern and Southern population, usually indicated by Interstate 8.
 * Sunnyvale CA has been know as technology hub of influence for the entirety of the United States
 
-## 5.3 Notes
+### 5.3 
 
-## 5.4 Notes
+### 5.4 
 
-## 5.5 Notes
+### 5.5 
 
-## 5.6 Notes
+### 5.6 
